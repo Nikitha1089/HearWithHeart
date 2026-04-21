@@ -1,0 +1,92 @@
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-2);
+  font-family: var(--font-display);
+  font-weight: 600;
+  border-radius: var(--radius-xl);
+  cursor: pointer;
+  transition: all var(--transition-base);
+  white-space: nowrap;
+  position: relative;
+  overflow: hidden;
+}
+
+.btn:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+/* Sizes */
+.sm { padding: var(--space-2) var(--space-4); font-size: var(--text-sm); }
+.md { padding: var(--space-3) var(--space-6); font-size: var(--text-base); }
+.lg { padding: var(--space-4) var(--space-8); font-size: var(--text-lg); }
+
+/* Variants */
+.primary {
+  background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-light) 100%);
+  color: var(--color-text-inverse);
+  box-shadow: 0 4px 14px rgba(13, 148, 136, 0.3);
+}
+.primary:hover:not(:disabled) {
+  box-shadow: 0 6px 20px rgba(13, 148, 136, 0.4);
+}
+
+.secondary {
+  background: var(--color-surface);
+  color: var(--color-text);
+  border: 1px solid var(--color-border);
+  box-shadow: var(--shadow-sm);
+}
+.secondary:hover:not(:disabled) {
+  background: var(--color-bg);
+  border-color: var(--color-primary);
+  color: var(--color-primary);
+}
+
+.accent {
+  background: linear-gradient(135deg, var(--color-accent) 0%, var(--color-accent-light) 100%);
+  color: var(--color-text-inverse);
+  box-shadow: 0 4px 14px rgba(249, 115, 22, 0.3);
+}
+
+.ghost {
+  background: transparent;
+  color: var(--color-text-secondary);
+}
+.ghost:hover:not(:disabled) {
+  background: var(--color-border-light);
+  color: var(--color-text);
+}
+
+.danger {
+  background: linear-gradient(135deg, var(--color-error) 0%, #f87171 100%);
+  color: var(--color-text-inverse);
+  box-shadow: 0 4px 14px rgba(239, 68, 68, 0.3);
+}
+
+.success {
+  background: linear-gradient(135deg, var(--color-success) 0%, #34d399 100%);
+  color: var(--color-text-inverse);
+  box-shadow: 0 4px 14px rgba(16, 185, 129, 0.35);
+}
+.success:hover:not(:disabled) {
+  box-shadow: 0 6px 20px rgba(16, 185, 129, 0.5);
+}
+
+.full { width: 100%; }
+
+/* Spinner */
+.spinner {
+  width: 18px;
+  height: 18px;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  border-top-color: currentColor;
+  border-radius: 50%;
+  animation: spin 0.6s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}

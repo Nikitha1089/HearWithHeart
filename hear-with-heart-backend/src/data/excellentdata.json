@@ -1,0 +1,344 @@
+{
+  "cannot_hear": [
+    {
+      "main_task_id": 1,
+      "main_task_name": "Monday: Visual Pattern Coding",
+      "subtasks": [
+        {"subtask_id": "1.1", "what_to_do": "Use two colors of paper (red and blue). Red = clap hands, blue = jump.", "how_they_help": "Hold up red paper, wait for clap. Hold up blue, wait for jump. Repeat 3 times."},
+        {"subtask_id": "1.2", "what_to_do": "On used paper, draw red dot, blue dot, red dot. Point to each.", "how_they_help": "Child claps (red) or jumps (blue). Smile after correct sequence."},
+        {"subtask_id": "1.3", "what_to_do": "Draw a 5-step code (red, red, blue, red, blue) on scrap paper.", "how_they_help": "Stand back. If mistake, point to dot again. Clap when finished."},
+        {"subtask_id": "1.4", "what_to_do": "Draw tower pattern: red block, blue block, red block. Use colored stones/buttons.", "how_they_help": "Give 6 stones (3 red, 3 blue). Child copies tower. Compare drawing."},
+        {"subtask_id": "1.5", "what_to_do": "Assign clap = A, jump = B. Write 'A B A' on paper.", "how_they_help": "Child performs clap, jump, clap. Then tries own initial."},
+        {"subtask_id": "1.6", "what_to_do": "Draw 3 strips: red, blue, red. Say 'The cat sat' is this code (by pointing).", "how_they_help": "Point to each strip. Child writes or signs 3-word story back."},
+        {"subtask_id": "1.7", "what_to_do": "Hide coin under cushion. Write 'red = go to sofa, blue = look under cushion.'", "how_they_help": "Hand code paper. Walk behind silently. Celebrate when found."},
+        {"subtask_id": "1.8", "what_to_do": "Give green leaf or scrap. Say 'Invent a new symbol for Dad.'", "how_they_help": "Child draws symbol (e.g., star). You nod and use it next time."},
+        {"subtask_id": "1.9", "what_to_do": "Child writes 4-step code for you using simple drawings.", "how_they_help": "You perform wrong action. Child corrects by pointing. Then you do correctly."},
+        {"subtask_id": "1.10", "what_to_do": "Line up 5 cups with red/blue dots. Give red/blue buttons/seeds.", "how_they_help": "Use water clock or slow count. Child sorts into matching cups. Repeat to beat time."}
+      ]
+    },
+    {
+      "main_task_id": 2,
+      "main_task_name": "Tuesday: Shadow Physics & Light Play ",
+      "subtasks": [
+        {"subtask_id": "2.1", "what_to_do": "Place toy on white paper near sunny window.", "how_they_help": "Hold paper steady. Child traces shadow with pencil. You demonstrate first."},
+        {"subtask_id": "2.2", "what_to_do": "Use candle/oil lamp or strong sunlight on wall.", "how_they_help": "Model dog shadow with hands. Child tries rabbit, bird. Applaud each."},
+        {"subtask_id": "2.3", "what_to_do": "Toy 10 cm from wall. Move light source closer and farther.", "how_they_help": "Child moves light → shadow grows. Moves away → shrinks. Ask 'Big or small?' Child points."},
+        {"subtask_id": "2.4", "what_to_do": "Roll ball slowly across floor near wall with sunlight.", "how_they_help": "You draw shadow at start. Child draws middle. You draw end. Compare."},
+        {"subtask_id": "2.5", "what_to_do": "Use small mirror or shiny lid. Tape to book. Reflect sunlight.", "how_they_help": "Child angles mirror to reflect light onto wall. Moves mirror to move shadow. Clap."},
+        {"subtask_id": "2.6", "what_to_do": "Stick pencil upright in clay/mud on sunny windowsill.", "how_they_help": "9 AM mark shadow. 10 AM another stone. 11 AM another."},
+        {"subtask_id": "2.7", "what_to_do": "Cut tree shape from cardboard. Tape to stick.", "how_they_help": "Sunlight behind white sheet. Child moves puppet for 10-sec silent story."},
+        {"subtask_id": "2.8", "what_to_do": "Place three toys: tall bottle, flat book, small ball.", "how_they_help": "Ask 'Which shadow longest?' Child guesses. Test with same light. Compare."},
+        {"subtask_id": "2.9", "what_to_do": "Wrap red cloth over flashlight or use colored glass.", "how_they_help": "Shine on white paper. Child places toy → colored shadow. Then blue. Child names colors."},
+        {"subtask_id": "2.10", "what_to_do": "Same cup on same windowsill at different times.", "how_they_help": "9 AM child draws shadow. 12 PM different color. 3 PM third color. Compare."}
+      ]
+    },
+    {
+      "main_task_id": 3,
+      "main_task_name": "Wednesday: Indoor Obstacle with Visual Cues",
+      "subtasks": [
+        {"subtask_id": "3.1", "what_to_do": "Draw living room: mat, table, chair. Mark 5 obstacles.", "how_they_help": "Point to furniture. Child draws shapes. Then mark pillow, book."},
+        {"subtask_id": "3.2", "what_to_do": "Write on scraps: CRAWL, HOP, SPIN, CLAP, FREEZE.", "how_they_help": "You write CRAWL. Child copies or draws stick figure."},
+        {"subtask_id": "3.3", "what_to_do": "Place START at door, END at window. Command cards between.", "how_they_help": "Walk course first. Child watches. Then child walks."},
+        {"subtask_id": "3.4", "what_to_do": "Place note 'DRAW A TRIANGLE' in middle.", "how_they_help": "Keep slate nearby. Child stops, draws triangle, shows you, continues."},
+        {"subtask_id": "3.5", "what_to_do": "Use sand timer or count heartbeats.", "how_they_help": "Start at first obstacle. Stop at END. Show time with claps or fingers."},
+        {"subtask_id": "3.6", "what_to_do": "Move two command cards closer (HOP then SPIN side by side).", "how_they_help": "Child runs again. Compare time. If faster, high five."},
+        {"subtask_id": "3.7", "what_to_do": "Put rope or drawn line on floor between obstacles.", "how_they_help": "Demonstrate walking on line. Child copies. If falls, restart segment."},
+        {"subtask_id": "3.8", "what_to_do": "Write 'Touch line → go back 2 steps.'", "how_they_help": "Child runs. If touches line, point to line and back 2 steps. Child corrects."},
+        {"subtask_id": "3.9", "what_to_do": "Child rearranges command cards. Gestures for you to run.", "how_they_help": "You pretend not to understand. Child points to each card. You do action."},
+        {"subtask_id": "3.10", "what_to_do": "Make course for stuffed toy with only 3 actions.", "how_they_help": "Child sets HOP, CLAP, FREEZE. Moves toy's limbs through course."}
+      ]
+    },
+    {
+      "main_task_id": 4,
+      "main_task_name": "Thursday: Kitchen Chemistry – Simple Reactions",
+      "subtasks": [
+        {"subtask_id": "4.1", "what_to_do": "Clear cup with 2 spoons baking soda.", "how_they_help": "Child pours ½ cup vinegar slowly. Watch bubbles. Child touches."},
+        {"subtask_id": "4.2", "what_to_do": "Cup ½ water, 2 spoons oil, 3 drops food color.", "how_they_help": "Child shakes gently. Watch layers. Point to line. Child draws."},
+        {"subtask_id": "4.3", "what_to_do": "4 bowls: flour, salt, sugar, baking soda.", "how_they_help": "Child adds 1 spoon vinegar to each. Only baking soda fizzes. Point. Child circles."},
+        {"subtask_id": "4.4", "what_to_do": "Tall glass: honey, dish soap, water, oil slowly.", "how_they_help": "Child watches layers. Point to each. Child draws with colors."},
+        {"subtask_id": "4.5", "what_to_do": "Dissolve 3 spoons salt in warm water. Hang string on pencil.", "how_they_help": "Windowsill 2 days. Day 3 child sees crystals. Point."},
+        {"subtask_id": "4.6", "what_to_do": "Freeze toy in ice. Two bowls: hot water, cold water.", "how_they_help": "Child drops ice in each. Watches which melts first. Point. Child records."},
+        {"subtask_id": "4.7", "what_to_do": "Child dips swab in lemon juice. Writes word on paper.", "how_they_help": "Dry 10 min. Hold near warm bulb. Brown writing appears. You sign."},
+        {"subtask_id": "4.8", "what_to_do": "Plastic bottle: 2 spoons baking soda, ½ cup vinegar, 2 drops soap.", "how_they_help": "Child watches foam eruption. Point. Child claps."},
+        {"subtask_id": "4.9", "what_to_do": "Two cups: hot water, cold water. One sugar cube each.", "how_they_help": "Child drops both. Watches which dissolves first. Count slowly. Child points."},
+        {"subtask_id": "4.10", "what_to_do": "Blank paper and crayons.", "how_they_help": "Child draws 4 boxes: volcano, oil+water, fizz test, crystals. Draws arrows."}
+      ]
+    },
+    {
+      "main_task_id": 5,
+      "main_task_name": "Friday: Visual Storytelling (No Words)",
+      "subtasks": [
+        {"subtask_id": "5.1", "what_to_do": "Draw 5 pictures: wake, breakfast, play, dinner, sleep.", "how_they_help": "Mix drawings. Child arranges order. Nod or shake head. Child corrects."},
+        {"subtask_id": "5.2", "what_to_do": "Fold paper into 6 panels. Draw your morning.", "how_they_help": "You draw panel 1. Child draws panels 2–6."},
+        {"subtask_id": "5.3", "what_to_do": "Cards: HAPPY, SAD, ANGRY, SCARED.", "how_they_help": "Hold HAPPY → smile. SAD → frown. ANGRY → stomp. SCARED → hug self."},
+        {"subtask_id": "5.4", "what_to_do": "Child acts short story: 'I lost my shoe and found it'.", "how_they_help": "No recording. Child repeats. Adds paper title cards."},
+        {"subtask_id": "5.5", "what_to_do": "Favorite story scene. Act 10 seconds.", "how_they_help": "Child acts silently. You guess. If wrong, repeat with bigger gesture."},
+        {"subtask_id": "5.6", "what_to_do": "Stack 4 notes: happy, sad, angry, surprised.", "how_they_help": "Child flips fast. Faces move. Say 'Show me surprised' → child finds."},
+        {"subtask_id": "5.7", "what_to_do": "Write letter using only drawings.", "how_they_help": "You provide paper. Child draws sun (good day), rain (sad), heart (love)."},
+        {"subtask_id": "5.8", "what_to_do": "10 objects: spoon, shoe, cup, book, key, sock, ball, comb, pencil, stone.", "how_they_help": "Child picks 5 and tells story by moving objects. Watch and nod."},
+        {"subtask_id": "5.9", "what_to_do": "Retell same story using only body movements.", "how_they_help": "You pretend to be other character. Child gestures. You gesture back."},
+        {"subtask_id": "5.10", "what_to_do": "Invent 'The Quiet Monster'.", "how_they_help": "Child draws monster. Acts how it walks, eats, sleeps. You copy actions."}
+      ]
+    },
+    {
+      "main_task_id": 6,
+      "main_task_name": "Saturday: Symmetry & Mirroring (Free Materials)",
+      "subtasks": [
+        {"subtask_id": "6.1", "what_to_do": "Fold paper in half. Paint on one side only.", "how_they_help": "Fold again and press. Open to see mirror image. Point to both sides."},
+        {"subtask_id": "6.2", "what_to_do": "Build half a stone/stick tower (left side only).", "how_they_help": "Child mirrors same objects on right side. Check. Point to mismatch."},
+        {"subtask_id": "6.3", "what_to_do": "Draw vertical line. Left half of a face.", "how_they_help": "Child draws right half to match. Nod or point to fix."},
+        {"subtask_id": "6.4", "what_to_do": "Small mirror or still water in bowl.", "how_they_help": "Child looks in mirror and writes name so it looks correct in mirror."},
+        {"subtask_id": "6.5", "what_to_do": "Fold paper twice. Cut small shapes from edges.", "how_they_help": "Unfold. Symmetrical pattern. Count matching sides together."},
+        {"subtask_id": "6.6", "what_to_do": "Draw line on tray. 10 small pebbles/beans.", "how_they_help": "Child places 3 left. Mirrors on right. Check. Repeat with 5."},
+        {"subtask_id": "6.7", "what_to_do": "Stand facing child like a mirror.", "how_they_help": "You raise right hand. Child raises left. Touch nose → opposite hand."},
+        {"subtask_id": "6.8", "what_to_do": "Find 5 things same on both sides.", "how_they_help": "Walk together. Child points to plate, cup, book, spoon, window. Nod."},
+        {"subtask_id": "6.9", "what_to_do": "Fold paper. Draw half monster on fold.", "how_they_help": "Child cuts or traces other half. Opens. Two-headed monster. Clap."},
+        {"subtask_id": "6.10", "what_to_do": "Two small mirrors at 90° (or polished lids).", "how_they_help": "Child puts small toy between. Sees infinite reflections. Count toys."}
+      ]
+    },
+    {
+      "main_task_id": 7,
+      "main_task_name": "Sunday: Vibration & Rhythm (Visualized Sound – No Speaker)",
+      "subtasks": [
+        {"subtask_id": "7.1", "what_to_do": "Metal pot on table. Child puts hand on table near pot.", "how_they_help": "Tap pot hard with spoon. Feel vibration. Stop. Feel nothing. Compare."},
+        {"subtask_id": "7.2", "what_to_do": "Plastic wrap over bowl. Sprinkle rice on top.", "how_they_help": "Child taps bowl from below. Rice jumps. Point to jumping rice."},
+        {"subtask_id": "7.3", "what_to_do": "Rubber bands over shoebox.", "how_they_help": "Child plucks. Sees band vibrate. Draw wavy line for 'vibration'."},
+        {"subtask_id": "7.4", "what_to_do": "Two cups with string through bottom.", "how_they_help": "Pull string tight. Child feels cup vibrate when you pluck string."},
+        {"subtask_id": "7.5", "what_to_do": "Tap table pattern: tap, tap, pause, tap.", "how_they_help": "Child watches your hand. Copies pattern. Nod. Increase length."},
+        {"subtask_id": "7.6", "what_to_do": "3 glasses different water levels.", "how_they_help": "Child taps each. Sees water move. Point to high vs low water."},
+        {"subtask_id": "7.7", "what_to_do": "Blow up balloon. Hold near child's cheek.", "how_they_help": "You hum (child cannot hear). Child feels balloon vibrate on cheek."},
+        {"subtask_id": "7.8", "what_to_do": "Collect 3 items: spoon, metal pan, plastic bowl.", "how_they_help": "Child taps each and feels vibration. Records with drawing."},
+        {"subtask_id": "7.9", "what_to_do": "Metal spoon and plastic spoon. Tap both on table.", "how_they_help": "Child feels both. Points to which vibrates longer (metal). Write it."},
+        {"subtask_id": "7.10", "what_to_do": "Large pot on floor. Child stands barefoot.", "how_they_help": "Tap pot with stick. Child feels floor vibration. Invents dance move."}
+      ]
+    }
+  ],
+  "cannot_speak": [
+    {
+      "main_task_id": 1,
+      "main_task_name": "Monday: Picture Card Communication (Low-Cost)",
+      "subtasks": [
+        {"subtask_id": "1.1", "what_to_do": "Draw or cut pictures: water, food, toilet, sleep, play, hurt, help, want, yes, no.", "how_they_help": "Hold each finished card; child nods."},
+        {"subtask_id": "1.2", "what_to_do": "Child holds up 'water' card. You bring water.", "how_they_help": "Wait for child to initiate; do not prompt verbally."},
+        {"subtask_id": "1.3", "what_to_do": "Show 'play' and 'sleep'. Child points to one.", "how_they_help": "Do activity child chose immediately."},
+        {"subtask_id": "1.4", "what_to_do": "Offer disliked food. Child holds up 'no'.", "how_they_help": "Remove food; nod respectfully."},
+        {"subtask_id": "1.5", "what_to_do": "Place 'want' + 'water' in sequence.", "how_they_help": "Clap; bring water."},
+        {"subtask_id": "1.6", "what_to_do": "Hold 'hurt' card, then point to body part.", "how_they_help": "Check part; give bandage if needed."},
+        {"subtask_id": "1.7", "what_to_do": "Hold 'sad' after dropping toy.", "how_they_help": "Hug child; help pick up toy."},
+        {"subtask_id": "1.8", "what_to_do": "Try to open jar, fail, hold up 'help'.", "how_they_help": "Open jar; thumbs up."},
+        {"subtask_id": "1.9", "what_to_do": "Show 'play' to sibling. Sibling starts game.", "how_they_help": "Sibling obeys card without speaking."},
+        {"subtask_id": "1.10", "what_to_do": "Draw new card (e.g., 'outside'). Show you.", "how_they_help": "Learn the card; use it next time."}
+      ]
+    },
+    {
+      "main_task_id": 2,
+      "main_task_name": "Tuesday: Visual Pattern Coding (No Speech)",
+      "subtasks": [
+        {"subtask_id": "2.1", "what_to_do": "Show red paper = clap. Blue paper = jump.", "how_they_help": "Hold red; child claps. Blue; child jumps."},
+        {"subtask_id": "2.2", "what_to_do": "Draw red, blue, red dots. Point to first.", "how_they_help": "Point to each dot; smile when child performs."},
+        {"subtask_id": "2.3", "what_to_do": "Draw red, red, blue, red, blue on note. Hand to child.", "how_they_help": "Stand back; if mistake, point to dot again."},
+        {"subtask_id": "2.4", "what_to_do": "Draw red block, blue block, red block. Give 6 blocks.", "how_they_help": "Compare drawing to tower; nod or shake head."},
+        {"subtask_id": "2.5", "what_to_do": "Write 'A B A' on paper. Clap=A, jump=B.", "how_they_help": "Demonstrate once; child performs clap,jump,clap."},
+        {"subtask_id": "2.6", "what_to_do": "Hide coin. Write 'red=sofa, blue=cushion'.", "how_they_help": "Walk behind silently; celebrate when found."},
+        {"subtask_id": "2.7", "what_to_do": "Give green paper. Gesture 'invent symbol for Dad'.", "how_they_help": "Nod; use symbol next time."},
+        {"subtask_id": "2.8", "what_to_do": "Child writes 4-step code. You pretend not to understand.", "how_they_help": "Perform wrong action; child corrects by pointing."},
+        {"subtask_id": "2.9", "what_to_do": "Line 5 cups with dots. Child sorts buttons. Sibling counts.", "how_they_help": "Sibling shows count; child races."},
+        {"subtask_id": "2.10", "what_to_do": "Draw red=clap, blue=jump, green=spin on poster.", "how_they_help": "Hang poster; family uses for morning warm-up."}
+      ]
+    },
+    {
+      "main_task_id": 3,
+      "main_task_name": "Wednesday: Shadow Physics & Light Play (Family, No Speaking)",
+      "subtasks": [
+        {"subtask_id": "3.1", "what_to_do": "Place toy on white paper near sunny window. Trace shadow.", "how_they_help": "Hold paper steady; trace one corner as example."},
+        {"subtask_id": "3.2", "what_to_do": "Use sunlight or candle. Each makes hand shadow.", "how_they_help": "You make dog; child bird; sibling rabbit."},
+        {"subtask_id": "3.3", "what_to_do": "Toy 10 cm from wall. Move light closer/away.", "how_they_help": "Point to big shadow; point to small shadow."},
+        {"subtask_id": "3.4", "what_to_do": "Roll ball slowly near wall with light.", "how_they_help": "You draw start; child middle; sibling end."},
+        {"subtask_id": "3.5", "what_to_do": "Stick pencil in clay on sunny sill.", "how_they_help": "9 AM child marks; 10 AM sibling; 11 AM you."},
+        {"subtask_id": "3.6", "what_to_do": "Cut shapes from cardboard. Tape to sticks. Light on sheet.", "how_they_help": "Each moves puppet; child directs with pointing."},
+        {"subtask_id": "3.7", "what_to_do": "Place tall bottle, flat book, small ball. Each guesses.", "how_they_help": "Write guesses; test; child points to winner."},
+        {"subtask_id": "3.8", "what_to_do": "Wrap red cloth over light. Then blue.", "how_they_help": "Each puts hand in colored shadow; child names color."},
+        {"subtask_id": "3.9", "what_to_do": "Draw each family member's shadow at 12 PM.", "how_they_help": "Stand still; child draws."},
+        {"subtask_id": "3.10", "what_to_do": "Same cup on sill. Each draws at different hour.", "how_they_help": "You 9 AM; child 12 PM; sibling 3 PM; compare."}
+      ]
+    },
+    {
+      "main_task_id": 4,
+      "main_task_name": "Thursday: Kitchen Chemistry – Visual Reactions (Family)",
+      "subtasks": [
+        {"subtask_id": "4.1", "what_to_do": "2 spoons baking soda in cup. Pour ½ cup vinegar.", "how_they_help": "Family watches bubbles; everyone claps."},
+        {"subtask_id": "4.2", "what_to_do": "½ water, 2 spoons oil, 3 drops color. Shake.", "how_they_help": "Each points to line between oil and water."},
+        {"subtask_id": "4.3", "what_to_do": "4 bowls: flour, salt, sugar, baking soda. Add vinegar.", "how_they_help": "Family points to fizzes; child circles it."},
+        {"subtask_id": "4.4", "what_to_do": "Tall glass: honey, dish soap, water, oil slowly.", "how_they_help": "Each points to layer; child names order."},
+        {"subtask_id": "4.5", "what_to_do": "Dissolve 3 spoons salt in warm water. Hang string.", "how_they_help": "Each morning family looks; child points to crystals."},
+        {"subtask_id": "4.6", "what_to_do": "Freeze toy in ice. Two bowls: hot water, cold water.", "how_they_help": "Each points to which melts first; child records."},
+        {"subtask_id": "4.7", "what_to_do": "Write with lemon juice. Dry. Near bulb, word appears.", "how_they_help": "Family reads word together (silently or signs)."},
+        {"subtask_id": "4.8", "what_to_do": "Bottle: baking soda, vinegar, 2 drops soap.", "how_they_help": "Family watches foam climb; child claps."},
+        {"subtask_id": "4.9", "what_to_do": "Draw 4 experiments on one paper.", "how_they_help": "Each points to favorite; child adds star."},
+        {"subtask_id": "4.10", "what_to_do": "Child blindfolded. Family puts sugar, salt, lemon on tongue.", "how_they_help": "Child draws happy or sad face; family laughs."}
+      ]
+    },
+    {
+      "main_task_id": 5,
+      "main_task_name": "Friday: Visual Storytelling – Family Story Night",
+      "subtasks": [
+        {"subtask_id": "5.1", "what_to_do": "Gesture 'Draw a happy time with our family.'", "how_they_help": "Give paper and crayons; do not guide."},
+        {"subtask_id": "5.2", "what_to_do": "Draw 5 mixed birthday pictures. Child puts in order.", "how_they_help": "Family watches; nod when correct."},
+        {"subtask_id": "5.3", "what_to_do": "Act 'no running inside' (walk slowly, point to floor).", "how_they_help": "Family guesses; clap when correct."},
+        {"subtask_id": "5.4", "what_to_do": "You act: 'Baby cried. Mom hugged. Baby smiled.'", "how_they_help": "Repeat twice; child draws three parts."},
+        {"subtask_id": "5.5", "what_to_do": "Act simple joke (slip on banana, shrug).", "how_they_help": "Family laughs; child bows."},
+        {"subtask_id": "5.6", "what_to_do": "Draw rules: no yelling (finger on lips), take turns.", "how_they_help": "Hang on wall; child points when needed."},
+        {"subtask_id": "5.7", "what_to_do": "Act Grandma (slow walk, glasses, knitting).", "how_they_help": "Give clue card if stuck (e.g., 'old' drawing)."},
+        {"subtask_id": "5.8", "what_to_do": "Draw on strips: 'Thank you Mom', 'Thank you Dad'. Glue chain.", "how_they_help": "You write words if needed; child draws picture."},
+        {"subtask_id": "5.9", "what_to_do": "Bring Dad's hat. Show how used (put on head).", "how_they_help": "Family watches; child points to who uses it."},
+        {"subtask_id": "5.10", "what_to_do": "Family acts scene (waking, eating, going out). Child directs.", "how_they_help": "Child points to each person; you hold camera if possible."}
+      ]
+    },
+    {
+      "main_task_id": 6,
+      "main_task_name": "Saturday: Symmetry & Mirroring (Family)",
+      "subtasks": [
+        {"subtask_id": "6.1", "what_to_do": "Fold paper in half. Paint one side. You press.", "how_they_help": "Open together; both point to mirror image."},
+        {"subtask_id": "6.2", "what_to_do": "Child builds left half stone tower. Sibling mirrors right.", "how_they_help": "You check; point to mismatch; sibling fixes."},
+        {"subtask_id": "6.3", "what_to_do": "Child draws left half face. You draw right half.", "how_they_help": "Compare; child thumbs up/down."},
+        {"subtask_id": "6.4", "what_to_do": "Write name backward. Hold to mirror. Family reads correct.", "how_they_help": "Each signs the name."},
+        {"subtask_id": "6.5", "what_to_do": "Each folds paper twice, cuts shapes. Unfold.", "how_they_help": "Compare snowflakes; child points to matching sides."},
+        {"subtask_id": "6.6", "what_to_do": "Draw line on tray. Child 3 pebbles left. You mirror right.", "how_they_help": "Child checks; thumbs up or corrects."},
+        {"subtask_id": "6.7", "what_to_do": "Child raises right hand. You raise left. Swap.", "how_they_help": "Laugh when wrong; try again."},
+        {"subtask_id": "6.8", "what_to_do": "Each finds one symmetrical object. Child collects.", "how_they_help": "Walk together; child points; you nod."},
+        {"subtask_id": "6.9", "what_to_do": "Fold paper. Draw half monster on fold. Open.", "how_they_help": "Each suggests name (writes/signs); child picks."},
+        {"subtask_id": "6.10", "what_to_do": "Two mirrors/lids facing 90°. Small toy between.", "how_they_help": "Each counts visible toys; child writes number."}
+      ]
+    },
+    {
+      "main_task_id": 7,
+      "main_task_name": "Sunday: Vibration & Rhythm – Family Feel the Beat",
+      "subtasks": [
+        {"subtask_id": "7.1", "what_to_do": "Metal pot on table. Each puts hand on table.", "how_they_help": "Take turns; child points to strongest feel."},
+        {"subtask_id": "7.2", "what_to_do": "Plastic wrap over bowl. Sprinkle rice. Tap from below.", "how_they_help": "Child watches whose tap makes rice jump highest."},
+        {"subtask_id": "7.3", "what_to_do": "Rubber bands over shoebox. Each plucks.", "how_they_help": "Child points to whose finger sees most vibration."},
+        {"subtask_id": "7.4", "what_to_do": "Two cups with string. Two pull tight. Third plucks.", "how_they_help": "Child feels cup; family rotates roles."},
+        {"subtask_id": "7.5", "what_to_do": "You tap: tap,tap,pause,tap. Child copies. Child leads.", "how_they_help": "Family takes turns leading; all watch hands."},
+        {"subtask_id": "7.6", "what_to_do": "3 glasses different water. Each taps.", "how_they_help": "Child points to biggest water ripple."},
+        {"subtask_id": "7.7", "what_to_do": "Balloon. Hold to cheek humming (child feels). Then child's cheek.", "how_they_help": "Child points to who smiled first."},
+        {"subtask_id": "7.8", "what_to_do": "Each picks item (spoon, pan, bowl). Taps and feels.", "how_they_help": "Child draws; family watches."},
+        {"subtask_id": "7.9", "what_to_do": "Metal spoon and plastic spoon. Each taps both.", "how_they_help": "Family points to longer vibration; child writes winner."},
+        {"subtask_id": "7.10", "what_to_do": "Large pot on floor. Family stands barefoot circle.", "how_they_help": "Each invents dance move for strong beat; child copies."}
+      ]
+    }
+  ],
+  "cannot_hear_nor_speak": [
+    {
+      "main_task_id": 1,
+      "main_task_name": "Monday: Visual Schedule & Daily Routine Board",
+      "subtasks": [
+        {"subtask_id": "1.1", "what_to_do": "Draw or cut 5 pictures: wake, breakfast, brush teeth, play, sleep.", "how_they_help": "Give old magazines or blank paper. Let them choose."},
+        {"subtask_id": "1.2", "what_to_do": "Put pictures in order from morning to night on big paper.", "how_they_help": "Point to sun for morning, moon for night. Let them arrange."},
+        {"subtask_id": "1.3", "what_to_do": "Draw small clock or number (like 7) next to each picture.", "how_they_help": "Show watch. Help write number if needed."},
+        {"subtask_id": "1.4", "what_to_do": "Hang schedule on wall. Each morning point to first picture and do it.", "how_they_help": "Finish task → put stone/sticker next to it. Clap."},
+        {"subtask_id": "1.5", "what_to_do": "Change order of two pictures (play before breakfast). Fix it.", "how_they_help": "Point to wrong order. Let child move pictures."},
+        {"subtask_id": "1.6", "what_to_do": "Add new picture (water plants or feed pet).", "how_they_help": "Give blank card. Child draws. Nod."},
+        {"subtask_id": "1.7", "what_to_do": "Special day (birthday). Draw temporary picture and add.", "how_they_help": "Show calendar. Tape new picture on top for that day."},
+        {"subtask_id": "1.8", "what_to_do": "End of day: move all pictures to 'done' envelope.", "how_they_help": "You hold envelope. Child drops each in one by one."},
+        {"subtask_id": "1.9", "what_to_do": "Teach younger sibling or toy how to use schedule.", "how_they_help": "Watch silently. Child points to each picture and shows toy."},
+        {"subtask_id": "1.10", "what_to_do": "Make weekly schedule (Monday to Sunday).", "how_they_help": "Give 7 papers. Draw or tape pictures. Hang in a row."}
+      ]
+    },
+    {
+      "main_task_id": 2,
+      "main_task_name": "Tuesday: Color Action Game (No Sound, No Speech)",
+      "subtasks": [
+        {"subtask_id": "2.1", "what_to_do": "Red paper = clap. Blue paper = jump. Demonstrate.", "how_they_help": "Hold red → child claps. Blue → child jumps."},
+        {"subtask_id": "2.2", "what_to_do": "Draw red, blue, red dots. Point to first.", "how_they_help": "Point to each dot; smile when child performs."},
+        {"subtask_id": "2.3", "what_to_do": "Draw red, red, blue, red, blue on sticky note.", "how_they_help": "Stand back. If mistake, point to dot again."},
+        {"subtask_id": "2.4", "what_to_do": "Draw red block, blue block, red block. Give 6 blocks.", "how_they_help": "Compare tower to drawing. Nod or shake head."},
+        {"subtask_id": "2.5", "what_to_do": "Clap=A, jump=B. Write 'A B A'.", "how_they_help": "Do actions once. Child copies."},
+        {"subtask_id": "2.6", "what_to_do": "Hide coin. Write 'red=sofa, blue=cushion'.", "how_they_help": "Walk behind silently. Clap when found."},
+        {"subtask_id": "2.7", "what_to_do": "Give green paper. Gesture 'new symbol for Dad'.", "how_they_help": "Nod. Use symbol next time."},
+        {"subtask_id": "2.8", "what_to_do": "Child writes 4-step code. You do wrong action.", "how_they_help": "Child points to fix. Then do correctly. Clap."},
+        {"subtask_id": "2.9", "what_to_do": "5 cups with dots. Sort buttons. Sibling counts slowly.", "how_they_help": "Sibling shows finger count. Child races."},
+        {"subtask_id": "2.10", "what_to_do": "Draw poster: red=clap, blue=jump. Hang on wall.", "how_they_help": "Family uses poster for morning actions together."}
+      ]
+    },
+    {
+      "main_task_id": 3,
+      "main_task_name": "Wednesday: Shadow Play with Family (No Hearing, No Speech)",
+      "subtasks": [
+        {"subtask_id": "3.1", "what_to_do": "Toy on white paper near sunny window. Trace shadow.", "how_they_help": "Hold paper. Trace one corner as example."},
+        {"subtask_id": "3.2", "what_to_do": "Sunlight or lamp. Make dog shadow. Child tries bird.", "how_they_help": "Take turns. Clap for each."},
+        {"subtask_id": "3.3", "what_to_do": "Toy 10 cm from wall. Move light closer/away.", "how_they_help": "Point to big shadow. Point to small shadow."},
+        {"subtask_id": "3.4", "what_to_do": "Roll ball slowly near wall with light.", "how_they_help": "You draw start. Child middle. Sibling end."},
+        {"subtask_id": "3.5", "what_to_do": "Pencil in clay on sunny sill.", "how_they_help": "9 AM child marks. 10 AM sibling. 11 AM you."},
+        {"subtask_id": "3.6", "what_to_do": "Cardboard shapes on sticks. Light on sheet.", "how_they_help": "Each moves puppet. Child points to direct."},
+        {"subtask_id": "3.7", "what_to_do": "Tall bottle, flat book, small ball. Each guesses longest shadow.", "how_they_help": "Write guesses. Test. Child points to winner."},
+        {"subtask_id": "3.8", "what_to_do": "Red plastic over light. Then blue.", "how_they_help": "Each puts hand in colored shadow. Child points to color card."},
+        {"subtask_id": "3.9", "what_to_do": "Draw each family member's shadow at 12 PM.", "how_they_help": "Stand still. Child draws."},
+        {"subtask_id": "3.10", "what_to_do": "Same cup on sill all day.", "how_they_help": "You 9 AM. Child 12 PM. Sibling 3 PM. Compare."}
+      ]
+    },
+    {
+      "main_task_id": 4,
+      "main_task_name": "Thursday: Kitchen Science with Family (No Words)",
+      "subtasks": [
+        {"subtask_id": "4.1", "what_to_do": "2 spoons baking soda in cup. Pour ½ cup vinegar.", "how_they_help": "Family watches bubbles. All clap."},
+        {"subtask_id": "4.2", "what_to_do": "½ water, 2 spoons oil, 3 drops color. Shake.", "how_they_help": "Each points to line between oil and water."},
+        {"subtask_id": "4.3", "what_to_do": "4 bowls: flour, salt, sugar, baking soda. Add vinegar.", "how_they_help": "Family points to fizzes. Child circles it."},
+        {"subtask_id": "4.4", "what_to_do": "Tall glass: honey, dish soap, water, oil slowly.", "how_they_help": "Each points to one layer. Child points to numbers for order."},
+        {"subtask_id": "4.5", "what_to_do": "3 spoons salt in warm water. Hang string.", "how_they_help": "Each morning family looks. Child points to crystals."},
+        {"subtask_id": "4.6", "what_to_do": "Freeze toy in ice. Hot water vs cold water.", "how_they_help": "Each points to which melts first. Child writes answer."},
+        {"subtask_id": "4.7", "what_to_do": "Write with lemon juice. Dry. Near bulb, word appears.", "how_they_help": "Family reads word (signs or writes)."},
+        {"subtask_id": "4.8", "what_to_do": "Bottle: baking soda, vinegar, 2 drops soap.", "how_they_help": "Family watches foam climb. Child claps."},
+        {"subtask_id": "4.9", "what_to_do": "Draw all 4 experiments on one big paper.", "how_they_help": "Each points to favorite. Child puts star on it."},
+        {"subtask_id": "4.10", "what_to_do": "Blindfold child. Family puts sugar, salt, lemon on tongue.", "how_they_help": "Child draws happy or sad face. Family laughs."}
+      ]
+    },
+    {
+      "main_task_id": 5,
+      "main_task_name": "Friday: Family Story with No Words (No Hearing, No Speech)",
+      "subtasks": [
+        {"subtask_id": "5.1", "what_to_do": "Motion to draw a happy time with family.", "how_they_help": "Give crayons. Do not guide."},
+        {"subtask_id": "5.2", "what_to_do": "Draw 5 mixed birthday pictures. Put in order.", "how_they_help": "Family watches. Nod when correct."},
+        {"subtask_id": "5.3", "what_to_do": "Act 'no running inside' (walk slow, point to floor).", "how_they_help": "Family guesses. Clap when correct."},
+        {"subtask_id": "5.4", "what_to_do": "You act: 'Baby cried. Mom hugged. Baby smiled.'", "how_they_help": "Do twice. Child draws three parts."},
+        {"subtask_id": "5.5", "what_to_do": "Act simple joke (slip on banana, shrug).", "how_they_help": "Family laughs. Child bows."},
+        {"subtask_id": "5.6", "what_to_do": "Draw family rules: finger on lips, point to self then sibling.", "how_they_help": "Hang poster. Child points when rule broken."},
+        {"subtask_id": "5.7", "what_to_do": "Act Grandma (slow walk, glasses, knitting).", "how_they_help": "Family guesses. If stuck, show clue drawing of old person."},
+        {"subtask_id": "5.8", "what_to_do": "Draw on strips: 'Thank you Mom', 'Thank you Dad'. Glue chain.", "how_they_help": "You write words if needed. Child draws pictures."},
+        {"subtask_id": "5.9", "what_to_do": "Bring Dad's hat. Show how used (put on head).", "how_they_help": "Family watches. Child points to who uses it."},
+        {"subtask_id": "5.10", "what_to_do": "Family acts silent scene (waking, breakfast). Child directs.", "how_they_help": "Hold paper with scene numbers. Child points to each person."}
+      ]
+    },
+    {
+      "main_task_id": 6,
+      "main_task_name": "Saturday: Mirror Copy Game (Silent Family)",
+      "subtasks": [
+        {"subtask_id": "6.1", "what_to_do": "Fold paper in half. Paint one side. You press.", "how_they_help": "Open together. Both point to mirror image."},
+        {"subtask_id": "6.2", "what_to_do": "Child builds left half tower. Sibling mirrors right.", "how_they_help": "You check. Point to mismatch. Sibling fixes."},
+        {"subtask_id": "6.3", "what_to_do": "Child draws left half face. You draw right half.", "how_they_help": "Compare. Child thumbs up/down."},
+        {"subtask_id": "6.4", "what_to_do": "Write name backward. Hold to mirror. Family reads correct.", "how_they_help": "Each signs child's name."},
+        {"subtask_id": "6.5", "what_to_do": "Each folds paper twice, cuts shapes. Unfold.", "how_they_help": "Compare snowflakes. Child points to matching sides."},
+        {"subtask_id": "6.6", "what_to_do": "Line on tray. Child 3 pebbles left. You mirror right.", "how_they_help": "Child checks. Thumbs up or fixes."},
+        {"subtask_id": "6.7", "what_to_do": "Stand facing. Raise right hand. Child raises left. Swap.", "how_they_help": "Laugh when wrong. Try again."},
+        {"subtask_id": "6.8", "what_to_do": "Each finds one symmetrical object. Child collects.", "how_they_help": "Walk together. Child points. You nod."},
+        {"subtask_id": "6.9", "what_to_do": "Fold paper. Draw half monster on fold. Open.", "how_they_help": "Each suggests name (writes). Child picks best."},
+        {"subtask_id": "6.10", "what_to_do": "Two mirrors/lids facing 90°. Small toy between.", "how_they_help": "Each counts visible toys. Child writes number."}
+      ]
+    },
+    {
+      "main_task_id": 7,
+      "main_task_name": "Sunday: Feel the Beat – Family Vibration",
+      "subtasks": [
+        {"subtask_id": "7.1", "what_to_do": "Metal pot on table. Each puts hand on table.", "how_they_help": "Take turns. Child points to strongest shake."},
+        {"subtask_id": "7.2", "what_to_do": "Plastic wrap over bowl. Rice on top. Tap from below.", "how_they_help": "Child watches whose tap makes rice jump highest."},
+        {"subtask_id": "7.3", "what_to_do": "Rubber bands over shoebox. Each plucks.", "how_they_help": "Child points to whose finger sees most shake."},
+        {"subtask_id": "7.4", "what_to_do": "Two cups with string. Two pull tight. Third plucks.", "how_they_help": "Child feels cup. Family rotates roles."},
+        {"subtask_id": "7.5", "what_to_do": "You tap: tap,tap,pause,tap. Child copies. Child leads.", "how_they_help": "Family takes turns leading. All watch hands."},
+        {"subtask_id": "7.6", "what_to_do": "3 glasses different water. Each taps.", "how_they_help": "Child points to biggest ripple."},
+        {"subtask_id": "7.7", "what_to_do": "Balloon. Hold to cheek humming. Then child's cheek.", "how_they_help": "Child points to who smiled first."},
+        {"subtask_id": "7.8", "what_to_do": "Each picks item (spoon, pan, bowl). Taps and feels.", "how_they_help": "Child draws. Family looks together."},
+        {"subtask_id": "7.9", "what_to_do": "Metal spoon and plastic spoon. Each taps both.", "how_they_help": "Family points to longer shake. Child writes winner."},
+        {"subtask_id": "7.10", "what_to_do": "Large pot on floor. Family stands barefoot circle.", "how_they_help": "Each invents dance move for strong beat. Child copies all."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Get-Content "C:\Users\manik\.gemini\antigravity\brain\355d9394-2152-4986-9b0e-4432903fef5a\.system_generated\logs\overview.txt" | Select-Object -Last 50

@@ -1,0 +1,431 @@
+{
+  "categories": [
+    {
+      "type": "cant_talk",
+      "questions": [
+        {
+          "id": 1,
+          "question": "How well can the child use gestures to communicate?",
+          "options": [
+            { "text": "Cannot use gestures", "score": 1 },
+            { "text": "Uses basic gestures", "score": 2 },
+            { "text": "Uses clear gestures", "score": 3 }
+          ]
+        },
+        {
+          "id": 2,
+          "question": "How well does the child use facial expressions?",
+          "options": [
+            { "text": "Rarely expressive", "score": 1 },
+            { "text": "Sometimes expressive", "score": 2 },
+            { "text": "Highly expressive", "score": 3 }
+          ]
+        },
+        {
+          "id": 3,
+          "question": "How does the child communicate needs?",
+          "options": [
+            { "text": "Cannot communicate", "score": 1 },
+            { "text": "Needs help", "score": 2 },
+            { "text": "Communicates independently", "score": 3 }
+          ]
+        },
+        {
+          "id": 4,
+          "question": "How well can the child use writing/drawing?",
+          "options": [
+            { "text": "Cannot use", "score": 1 },
+            { "text": "Uses partially", "score": 2 },
+            { "text": "Uses effectively", "score": 3 }
+          ]
+        },
+        {
+          "id": 5,
+          "question": "How well does the child use communication boards/apps?",
+          "options": [
+            { "text": "Cannot use", "score": 1 },
+            { "text": "Uses with help", "score": 2 },
+            { "text": "Uses independently", "score": 3 }
+          ]
+        },
+        {
+          "id": 6,
+          "question": "How well does the child understand spoken instructions?",
+          "options": [
+            { "text": "Cannot understand", "score": 1 },
+            { "text": "Understands partially", "score": 2 },
+            { "text": "Understands clearly", "score": 3 }
+          ]
+        },
+        {
+          "id": 7,
+          "question": "How well does the child respond to questions?",
+          "options": [
+            { "text": "No response", "score": 1 },
+            { "text": "Limited response", "score": 2 },
+            { "text": "Clear response (non-verbal)", "score": 3 }
+          ]
+        },
+        {
+          "id": 8,
+          "question": "How well can the child express emotions?",
+          "options": [
+            { "text": "Cannot express", "score": 1 },
+            { "text": "Partially expresses", "score": 2 },
+            { "text": "Clearly expresses", "score": 3 }
+          ]
+        },
+        {
+          "id": 9,
+          "question": "How well can the child initiate communication?",
+          "options": [
+            { "text": "Never initiates", "score": 1 },
+            { "text": "Sometimes initiates", "score": 2 },
+            { "text": "Frequently initiates", "score": 3 }
+          ]
+        },
+        {
+          "id": 10,
+          "question": "How well does the child interact with peers?",
+          "options": [
+            { "text": "Avoids interaction", "score": 1 },
+            { "text": "Limited interaction", "score": 2 },
+            { "text": "Active interaction", "score": 3 }
+          ]
+        },
+        {
+          "id": 11,
+          "question": "How well can the child follow conversations?",
+          "options": [
+            { "text": "Cannot follow", "score": 1 },
+            { "text": "Follows partially", "score": 2 },
+            { "text": "Follows well", "score": 3 }
+          ]
+        },
+        {
+          "id": 12,
+          "question": "How well can the child use body language?",
+          "options": [
+            { "text": "Cannot use", "score": 1 },
+            { "text": "Basic use", "score": 2 },
+            { "text": "Effective use", "score": 3 }
+          ]
+        },
+        {
+          "id": 13,
+          "question": "How well can the child indicate yes/no?",
+          "options": [
+            { "text": "Cannot indicate", "score": 1 },
+            { "text": "Sometimes indicates", "score": 2 },
+            { "text": "Clearly indicates", "score": 3 }
+          ]
+        },
+        {
+          "id": 14,
+          "question": "How well does the child respond to visual prompts?",
+          "options": [
+            { "text": "No response", "score": 1 },
+            { "text": "Partial response", "score": 2 },
+            { "text": "Good response", "score": 3 }
+          ]
+        },
+        {
+          "id": 15,
+          "question": "How independent is the child in communication?",
+          "options": [
+            { "text": "Not independent", "score": 1 },
+            { "text": "Partially independent", "score": 2 },
+            { "text": "Fully independent", "score": 3 }
+          ]
+        }
+      ]
+    },
+
+    {
+      "type": "cant_hear",
+      "questions": [
+        {
+          "id": 1,
+          "question": "How well does the child understand sign language?",
+          "options": [
+            { "text": "Cannot understand", "score": 1 },
+            { "text": "Basic understanding", "score": 2 },
+            { "text": "Fluent", "score": 3 }
+          ]
+        },
+        {
+          "id": 2,
+          "question": "How well does the child lip-read?",
+          "options": [
+            { "text": "Cannot lip-read", "score": 1 },
+            { "text": "Basic lip-reading", "score": 2 },
+            { "text": "Good lip-reading", "score": 3 }
+          ]
+        },
+        {
+          "id": 3,
+          "question": "How well does the child respond to visual instructions?",
+          "options": [
+            { "text": "No response", "score": 1 },
+            { "text": "Partial response", "score": 2 },
+            { "text": "Clear response", "score": 3 }
+          ]
+        },
+        {
+          "id": 4,
+          "question": "How well can the child read written instructions?",
+          "options": [
+            { "text": "Cannot read", "score": 1 },
+            { "text": "Reads partially", "score": 2 },
+            { "text": "Reads well", "score": 3 }
+          ]
+        },
+        {
+          "id": 5,
+          "question": "How well does the child use hearing aids (if any)?",
+          "options": [
+            { "text": "Cannot use", "score": 1 },
+            { "text": "Uses sometimes", "score": 2 },
+            { "text": "Uses effectively", "score": 3 }
+          ]
+        },
+        {
+          "id": 6,
+          "question": "How well can the child follow classroom activities?",
+          "options": [
+            { "text": "Cannot follow", "score": 1 },
+            { "text": "Follows with help", "score": 2 },
+            { "text": "Follows independently", "score": 3 }
+          ]
+        },
+        {
+          "id": 7,
+          "question": "How well does the child communicate using writing?",
+          "options": [
+            { "text": "Cannot communicate", "score": 1 },
+            { "text": "Basic writing", "score": 2 },
+            { "text": "Clear writing", "score": 3 }
+          ]
+        },
+        {
+          "id": 8,
+          "question": "How well does the child recognize visual signals?",
+          "options": [
+            { "text": "Cannot recognize", "score": 1 },
+            { "text": "Recognizes some", "score": 2 },
+            { "text": "Recognizes clearly", "score": 3 }
+          ]
+        },
+        {
+          "id": 9,
+          "question": "How well does the child maintain attention visually?",
+          "options": [
+            { "text": "Very low", "score": 1 },
+            { "text": "Moderate", "score": 2 },
+            { "text": "High", "score": 3 }
+          ]
+        },
+        {
+          "id": 10,
+          "question": "How well does the child interact socially?",
+          "options": [
+            { "text": "Avoids", "score": 1 },
+            { "text": "Limited", "score": 2 },
+            { "text": "Active", "score": 3 }
+          ]
+        },
+        {
+          "id": 11,
+          "question": "How well does the child understand routines?",
+          "options": [
+            { "text": "Confused", "score": 1 },
+            { "text": "Partial", "score": 2 },
+            { "text": "Clear", "score": 3 }
+          ]
+        },
+        {
+          "id": 12,
+          "question": "How well does the child respond to gestures?",
+          "options": [
+            { "text": "No response", "score": 1 },
+            { "text": "Partial", "score": 2 },
+            { "text": "Good response", "score": 3 }
+          ]
+        },
+        {
+          "id": 13,
+          "question": "How well does the child identify objects visually?",
+          "options": [
+            { "text": "Cannot identify", "score": 1 },
+            { "text": "Identifies some", "score": 2 },
+            { "text": "Identifies most", "score": 3 }
+          ]
+        },
+        {
+          "id": 14,
+          "question": "How well does the child follow instructions through demonstration?",
+          "options": [
+            { "text": "Cannot follow", "score": 1 },
+            { "text": "Follows partially", "score": 2 },
+            { "text": "Follows well", "score": 3 }
+          ]
+        },
+        {
+          "id": 15,
+          "question": "How independent is the child in learning tasks?",
+          "options": [
+            { "text": "Dependent", "score": 1 },
+            { "text": "Partially independent", "score": 2 },
+            { "text": "Independent", "score": 3 }
+          ]
+        }
+      ]
+    },
+
+    {
+      "type": "both",
+      "questions": [
+        {
+          "id": 1,
+          "question": "How well does the child use sign language?",
+          "options": [
+            { "text": "Cannot use", "score": 1 },
+            { "text": "Basic use", "score": 2 },
+            { "text": "Fluent", "score": 3 }
+          ]
+        },
+        {
+          "id": 2,
+          "question": "How well does the child use gestures?",
+          "options": [
+            { "text": "Cannot use", "score": 1 },
+            { "text": "Basic", "score": 2 },
+            { "text": "Clear", "score": 3 }
+          ]
+        },
+        {
+          "id": 3,
+          "question": "How well does the child respond to visual cues?",
+          "options": [
+            { "text": "No response", "score": 1 },
+            { "text": "Partial", "score": 2 },
+            { "text": "Good", "score": 3 }
+          ]
+        },
+        {
+          "id": 4,
+          "question": "How well can the child communicate needs?",
+          "options": [
+            { "text": "Cannot", "score": 1 },
+            { "text": "With help", "score": 2 },
+            { "text": "Independently", "score": 3 }
+          ]
+        },
+        {
+          "id": 5,
+          "question": "How well does the child understand routines visually?",
+          "options": [
+            { "text": "Confused", "score": 1 },
+            { "text": "Partial", "score": 2 },
+            { "text": "Clear", "score": 3 }
+          ]
+        },
+        {
+          "id": 6,
+          "question": "How well can the child use assistive tools?",
+          "options": [
+            { "text": "Cannot use", "score": 1 },
+            { "text": "Uses with help", "score": 2 },
+            { "text": "Independent", "score": 3 }
+          ]
+        },
+        {
+          "id": 7,
+          "question": "How well does the child recognize symbols/pictures?",
+          "options": [
+            { "text": "Cannot", "score": 1 },
+            { "text": "Some", "score": 2 },
+            { "text": "Most", "score": 3 }
+          ]
+        },
+        {
+          "id": 8,
+          "question": "How well does the child interact socially?",
+          "options": [
+            { "text": "Avoids", "score": 1 },
+            { "text": "Limited", "score": 2 },
+            { "text": "Active", "score": 3 }
+          ]
+        },
+        {
+          "id": 9,
+          "question": "How well does the child express emotions?",
+          "options": [
+            { "text": "Cannot", "score": 1 },
+            { "text": "Partial", "score": 2 },
+            { "text": "Clear", "score": 3 }
+          ]
+        },
+        {
+          "id": 10,
+          "question": "How well can the child follow demonstrations?",
+          "options": [
+            { "text": "Cannot", "score": 1 },
+            { "text": "Partial", "score": 2 },
+            { "text": "Good", "score": 3 }
+          ]
+        },
+        {
+          "id": 11,
+          "question": "How well does the child maintain attention?",
+          "options": [
+            { "text": "Low", "score": 1 },
+            { "text": "Moderate", "score": 2 },
+            { "text": "High", "score": 3 }
+          ]
+        },
+        {
+          "id": 12,
+          "question": "How well does the child identify objects?",
+          "options": [
+            { "text": "Cannot", "score": 1 },
+            { "text": "Some", "score": 2 },
+            { "text": "Most", "score": 3 }
+          ]
+        },
+        {
+          "id": 13,
+          "question": "How well can the child perform simple tasks?",
+          "options": [
+            { "text": "Cannot", "score": 1 },
+            { "text": "With help", "score": 2 },
+            { "text": "Independently", "score": 3 }
+          ]
+        },
+        {
+          "id": 14,
+          "question": "How well does the child use body language?",
+          "options": [
+            { "text": "Poor", "score": 1 },
+            { "text": "Average", "score": 2 },
+            { "text": "Excellent", "score": 3 }
+          ]
+        },
+        {
+          "id": 15,
+          "question": "How independent is the child overall?",
+          "options": [
+            { "text": "Dependent", "score": 1 },
+            { "text": "Partially independent", "score": 2 },
+            { "text": "Fully independent", "score": 3 }
+          ]
+        }
+      ]
+    }
+  ],
+  "evaluation": {
+    "poor": "15 - 25",
+    "average": "26 - 35",
+    "excellent": "36 - 45"
+  }
+}

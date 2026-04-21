@@ -1,0 +1,28 @@
+.wrapper {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.track {
+  fill: none;
+  stroke: var(--color-border);
+}
+
+[data-theme="dark"] .track {
+  stroke: var(--color-border);
+}
+
+.fill {
+  fill: none;
+  transition: stroke-dashoffset 1s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.label {
+  position: absolute;
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: var(--text-lg);
+  color: var(--color-text);
+}
